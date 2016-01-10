@@ -1,0 +1,1 @@
+Project page for the Spring Security and reCAPTCHA Integration Tutorial
